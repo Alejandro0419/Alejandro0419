@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **alejandrocampaya@hotmail.com**
 
-- ⚡ Fun fact, **when I'm not coding, you can find me trying out new recipes** 👨‍🍳🍳
+- ⚡ Fun fact, **when I'm not coding you can find me trying out new recipes** 👨‍🍳🍳
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
