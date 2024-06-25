@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://res.cloudinary.com/dx1wpkw1x/image/upload/v1719335268/Mza21e9_oartl6.jpg" align="center" style="width: 100%" />
+<img src="https://res.cloudinary.com/dx1wpkw1x/image/upload/v1719335268/Mza21e9_oartl6.jpg" align="center" height="320" width="" />
 </div>  
 <h1 align="center">Hello there 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate fullstack developer from Mendoza, Argentina 🏔🍇❤</h3>
